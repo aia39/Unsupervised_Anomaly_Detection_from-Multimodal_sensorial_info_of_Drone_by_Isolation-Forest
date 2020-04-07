@@ -15,3 +15,10 @@ Unsupervised anomaly detection is now a days very vital thing in digital world.A
 
 ## Getting Started 
 * [inference.py](inference.py) is the main inference code to run anomaly detection on csv file of IMU data/desired input data.
+
+* [isofor_test.py](isofor_test.py) It is helper function file to run inference.py.It contains the function of multivariate and univariate isolation forest respectively as ' isolation_forest_score() ' and ' univariate_score() '
+
+* [findsensor.py](findsensor.py) It is also a helper function file to run inference.py.It contains the function of to find the top responsible features that causing anomaly in anomalous sample.
+
+
+
