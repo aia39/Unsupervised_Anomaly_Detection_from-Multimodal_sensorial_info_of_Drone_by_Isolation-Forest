@@ -26,3 +26,14 @@ N.B: To run this code you need to place the training(normal/mostly normal) data 
 * [isofor_train_anomaly_detector_image.py](isofor_train_anomaly_detector_image.py) is the code to train a model using normal image data to show the model normal data representation to isolation forest model.
 
 * [isofor_test_anomaly_detector_image.py](isofor_test_anomaly_detector_image.py) is the inference code to determine anomaly data from anomalous image.It can generate anomaly score frame by frame.
+
+
+## Documentation
+Related paper of Isolation forest 
+* [Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf?q=isolation-forest)
+* [Isolation forest to detect anomaly in UAV](https://www.researchgate.net/publication/334685626_Unsupervised_anomaly_detection_in_unmanned_aerial_vehicles)
+
+
+* [Isolation Forest python library documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
+
+
