@@ -12,3 +12,6 @@ Unsupervised anomaly detection is now a days very vital thing in digital world.A
    pip install scikit-learn==0.21.2
    pip install pickle-mixin
    ```
+
+## Getting Started 
+* [inference.py](inference.py) is the main inference code to run anomaly detection on csv file of IMU data/desired input data.
