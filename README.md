@@ -11,6 +11,9 @@ Unsupervised anomaly detection is now a days very vital thing in digital world.A
    pip install sklearn
    pip install scikit-learn==0.21.2
    pip install pickle-mixin
+   pip install opencv-contrib-python
+   pip install matplotlib
+   pip install numpy
    ```
 
 ## Getting Started 
