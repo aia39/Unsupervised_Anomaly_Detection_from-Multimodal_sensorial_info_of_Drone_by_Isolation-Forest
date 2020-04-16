@@ -7,7 +7,8 @@ Simple illustration of the approach is given below both for image and IMU sensor
 Here upper one is the univariate approach to define anomalous feature and lower one is the multivariate approach to detect and quantify anomaly. 
 
 ![Pipeline for the image data](approachImage.jpg)
-Here it is a simplified diagram of anomaly detection approach from image.
+Here it is a simplified diagram of anomaly detection approach from image.A demonstration of anomaly detection from image is showed below:
+![](Illustration/3wvqgp.gif)
 
 
 
