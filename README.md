@@ -1,6 +1,11 @@
 # Anomaly_Detection-by-Isolation-Forest
 Unsupervised anomaly detection is now a days very vital thing in digital world.Anomaly always expected to happen rarely so unsupervised approach is necessary to deal with it.Isolation forest is one of the renowned method to detect anomaly unsupervised manner.Various use of isolation forest is showed in the repository.Anomaly detection from a heterogeneous autonomous system is mainly presented here.A multimodal sensorial information(can be sync IMU sensor fusion data with image data) is used to detect anomaly and quantifying it in every timestamp.
+Simple illustration of the approach is given below both for image and IMU sensorial data:
+![Pipeline for the IMU data](isolation forest approachNew.jpg)
+![Pipeline for the image data](isolation forest approachV2Image.jpg)
 
+For further improvement feature extraction from the help of optical flow frame was done.But the result wasn't satisfactory for this dataset as quiver plot show some redundacies.The below image illustrates nicely that quiver plot is not enough to represent the motion that causes anomaly.
+![Quiver plot of anomalous frame](Optical flow.jpg)
 
 ## Installation
 1. Clone this repository
@@ -30,6 +35,9 @@ N.B: To run this code you need to place the training(normal/mostly normal) data 
 
 * [isofor_test_anomaly_detector_image.py](isofor_test_anomaly_detector_image.py) is the inference code to determine anomaly data from anomalous image.It can generate anomaly score frame by frame.
 
+* [Flow_train.py](Flow_train.py) is the code to train normal frame of quiver plot on raw image. 
+
+* [Flow_test.py](Flow_test.py) is the code to determine anomaly from quiver plot of image(quiver plot on raw image) 
 
 ## Documentation
 Related paper of Isolation forest 
