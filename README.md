@@ -2,13 +2,13 @@
 Unsupervised anomaly detection is now a days very vital thing in digital world.Anomaly always expected to happen rarely so unsupervised approach is necessary to deal with it.Isolation forest is one of the renowned method to detect anomaly unsupervised manner.Various use of isolation forest is showed in the repository.Anomaly detection from a heterogeneous autonomous system is mainly presented here.A multimodal sensorial information(can be sync IMU sensor fusion data with image data) is used to detect anomaly and quantifying it in every timestamp.
 Simple illustration of the approach is given below both for image and IMU sensorial data:
 
-![Pipeline for the IMU data](https://github.com/aia39/Unsupervised_Anomaly_Detection_from-Multimodal_sensorial_info_of_Drone_by_Isolation-Forest/isolation forest approachNew.jpg)
+![Pipeline for the IMU data](approachimu.jpg)
 
-![Pipeline for the image data](isolation forest approachV2Image.jpg)
+![Pipeline for the image data](approachImage.jpg)
 
 For further improvement feature extraction from the help of optical flow frame was done.But the result wasn't satisfactory for this dataset as quiver plot show some redundacies.The below image illustrates nicely that quiver plot is not enough to represent the motion that causes anomaly.
 
-![Quiver plot of anomalous frame](Optical flow.jpg)
+![Quiver plot of anomalous frame](Opticalflow.jpg)
 
 ## Installation
 1. Clone this repository
