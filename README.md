@@ -42,7 +42,7 @@ N.B: To run this code you need to place the training(normal/mostly normal) data 
 
 * [Flow_train.py](Flow_train.py) is the code to train normal frame of quiver plot on raw image. 
 
-* [Flow_test.py](Flow_test.py) is the code to determine anomaly from quiver plot of image(quiver plot on raw image) 
+* [Flow_test.py](Flow_test.py) is the code to determine anomaly from quiver plot on image(quiver plot on raw image) 
 
 ## Documentation
 Related paper of Isolation forest 
