@@ -4,6 +4,8 @@ Simple illustration of the approach is given below both for image and IMU sensor
 
 ![Pipeline for the IMU data](approachimu.jpg)
 
+Here upper one is the univariate approach to define anomalous feature and lower one is the multivariate approach to detect and quantify anomaly. 
+
 ![Pipeline for the image data](approachImage.jpg)
 
 For further improvement feature extraction from the help of optical flow frame was done.But the result wasn't satisfactory for this dataset as quiver plot show some redundacies.The below image illustrates nicely that quiver plot is not enough to represent the motion that causes anomaly.
