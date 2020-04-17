@@ -59,3 +59,5 @@ Related paper of Isolation forest
 * [Isolation Forest python library documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
 
 
+## Acknowledgement
+Base code of anomaly detection from image is borrowed from :https://www.pyimagesearch.com/2020/01/20/intro-to-anomaly-detection-with-opencv-computer-vision-and-scikit-learn/
