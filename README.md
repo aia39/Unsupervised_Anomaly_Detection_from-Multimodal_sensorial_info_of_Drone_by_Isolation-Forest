@@ -1,5 +1,5 @@
 # Anomaly_Detection-by-Isolation-Forest
-Unsupervised anomaly detection is now a days very vital thing in digital world.Anomaly always expected to happen rarely so unsupervised approach is necessary to deal with it.Isolation forest is one of the renowned method to detect anomaly unsupervised manner.Various use of isolation forest is showed in the repository.Anomaly detection from a heterogeneous autonomous system is mainly presented here.A multimodal sensorial information(can be sync IMU sensor fusion data with image data) is used to detect anomaly and quantifying it in every timestamp.
+Unsupervised anomaly detection is nowadays a very vital thing in the digital world. Anomaly always expected to happen rarely so an unsupervised approach is necessary to deal with it. Isolation forest is one of the renowned methods to detect anomaly unsupervised manner. Various use of isolation forest is shown in the repository. Anomaly detection from a heterogeneous autonomous system is mainly presented here.A multimodal sensorial information(can be sync IMU sensor fusion data with image data) is used to detect anomaly and quantifying it in every timestamp.
 Simple illustration of the approach is given below both for image and IMU sensorial data:
 
 ![Pipeline for the IMU data](Illustration/approachimu.jpg)
