@@ -51,13 +51,11 @@ N.B: To run this code you need to place the training(normal/mostly normal) data 
 * [Flow_test.py](Flow_test.py) is the code to determine anomaly from quiver plot on image(quiver plot on raw image) 
 
 ## Documentation
-Related paper of Isolation forest 
+
 * `Isolation Forest`: [Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf?q=isolation-forest)
 * `Isolation forest in detecting anomaly in UAV`:[Isolation forest to detect anomaly in UAV](https://www.researchgate.net/publication/334685626_Unsupervised_anomaly_detection_in_unmanned_aerial_vehicles)
-
-
 * `Necessary Documents`: [Isolation Forest python library documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
 
 
 ## Acknowledgement
-Base code of anomaly detection from image is borrowed from :https://www.pyimagesearch.com/2020/01/20/intro-to-anomaly-detection-with-opencv-computer-vision-and-scikit-learn/
+Base code of anomaly detection from image is borrowed from : https://www.pyimagesearch.com/2020/01/20/intro-to-anomaly-detection-with-opencv-computer-vision-and-scikit-learn/
