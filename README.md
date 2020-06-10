@@ -52,11 +52,11 @@ N.B: To run this code you need to place the training(normal/mostly normal) data 
 
 ## Documentation
 Related paper of Isolation forest 
-* [Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf?q=isolation-forest)
-* [Isolation forest to detect anomaly in UAV](https://www.researchgate.net/publication/334685626_Unsupervised_anomaly_detection_in_unmanned_aerial_vehicles)
+* `Isolation Forest`: [Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf?q=isolation-forest)
+* `Isolation forest in detecting anomaly in UAV`:[Isolation forest to detect anomaly in UAV](https://www.researchgate.net/publication/334685626_Unsupervised_anomaly_detection_in_unmanned_aerial_vehicles)
 
 
-* [Isolation Forest python library documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
+* `Necessary Documents`: [Isolation Forest python library documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
 
 
 ## Acknowledgement
